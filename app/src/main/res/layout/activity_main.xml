@@ -39,11 +39,11 @@
 
     <EditText
         android:id="@+id/text2"
+        style="@style/CustomEditText"
         android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:layout_marginBottom="640dp"
-        android:hint="Samuel njuguna"
-        style="@style/CustomEditText"
+        android:hint="Faith Irungu"
 
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
